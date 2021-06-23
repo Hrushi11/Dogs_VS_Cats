@@ -1,6 +1,6 @@
 # Dogs_VS_Cats
 
-Live link for the web - with file uploader - [Dogs VS Cats Predictor](https://share.streamlit.io/hrushi11/dogs_vs_cats/main/script.py)
+Live link for the web - with file uploader - [Dogs VS Cats Predictor](https://share.streamlit.io/hrushi11/dogs_vs_cats/main/script.py) <br>
 Live link for the web - with URL - [Dogs VS Cats Predictor](https://share.streamlit.io/hrushi11/dogs_vs_cats/main/main.py)
 
 To view the ipython notebook for this project ->  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1R0M3hMms9tSKxyTYBgx_DYeM2PyGfmUh?usp=sharing)
