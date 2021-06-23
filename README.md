@@ -1,8 +1,8 @@
 # Dogs_VS_Cats
 
-Live link for the web - [Dogs VS Cats Predictor]()
+Live link for the web - [Dogs VS Cats Predictor](https://share.streamlit.io/hrushi11/dogs_vs_cats/main/script.py)
 
-To view the ipython notebook for this project -> 
+To view the ipython notebook for this project ->  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1R0M3hMms9tSKxyTYBgx_DYeM2PyGfmUh?usp=sharing)
 
 
 This model built is trained on the dataset provided by Kaggle in collaboration with Asirra.
