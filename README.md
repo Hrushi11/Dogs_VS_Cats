@@ -15,3 +15,7 @@ Many even think it's fun! Here is an example of the Asirra interface:
 Asirra is unique because of its partnership with Petfinder.com, the world's largest site devoted to finding homes for homeless pets. 
 They've provided Microsoft Research with over three million images of cats and dogs, manually classified by people at thousands of animal shelters across the United States.
 Kaggle is fortunate to offer a subset of this data for fun and research.
+
+![Image](https://i.ibb.co/sW3qhvq/file-uploader.jpg)
+
+![Image](https://i.ibb.co/XFhGqg1/url.jpg)
