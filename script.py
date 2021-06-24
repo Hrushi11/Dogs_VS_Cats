@@ -9,7 +9,7 @@ IMAGE_SHAPE = (224, 224)
 st.set_option('deprecation.showfileUploaderEncoding', False)
 st.title("Dogs and Cats Predictor")
 
-def main():
+def file_Uploader():
     file = st.file_uploader("Upload file", type=["png", "jpeg", "jpg"])
     show_file = st.empty()
 
@@ -47,7 +47,7 @@ def main():
          image = tf.image.resize(image, size=IMAGE_SHAPE)
          #Grayscale
          if image.shape[2] == 1:
-             img = tf.image.grayscale_to_rgb(image)
+             image = tf.image.grayscale_to_rgb(image)
          # Rescale the image (getting all values between 0 & 1)
           # image = image/255
 
@@ -62,4 +62,4 @@ def main():
     image = Image.open(BytesIO(content))
     st.image(image, caption="Classifying the animal", use_column_width=True)
 
-main()
+file_Uploader()
